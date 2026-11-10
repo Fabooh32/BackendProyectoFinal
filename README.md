@@ -58,4 +58,5 @@ Content-Type	:	application/x-www-form-urlencoded
 # 3- Prueba de conexion establecida con la BD's
 
 Probar la conexión (debe decir 0 issues)    : python manage.py check --database negocio
+
 Inspeccionar la base de datos               : python manage.py inspectdb --database negocio cabanas detalle_servicio huespedes reservas servicios_extra
