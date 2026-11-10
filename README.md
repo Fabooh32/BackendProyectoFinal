@@ -14,7 +14,9 @@
 Descomprime en el Escritorio y entra a la carpeta con manage.py, luego cd BackendProyectoFinal (en caso de no estar en la carpeta)
 
 PRUEBAS BASICAS (OPCIONAL)
+
 Revisa Python 3.12+ (si falla, usa py): python --version
+
 Pruebar red a Oracle (debe decir True): Test-NetConnection db.freesql.com -Port 1521
 
 python -m venv entorno
