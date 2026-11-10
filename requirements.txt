@@ -1,0 +1,5 @@
+Django>=5.2,<6.0 # 5.2 LTS: soporte hasta abril de 2028
+djangorestframework
+django-cors-headers
+oracledb
+python-dotenv
