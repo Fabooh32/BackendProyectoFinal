@@ -1,5 +1,5 @@
 # Resumen general para levantar BD's
-1. Descomprime en el Escritorio y entra a la carpeta con manage.py: cd "$HOME\Desktop\Backend EVA3"
+1. Descomprime en el Escritorio y entra a la carpeta con manage.py
 2. Revisa Python 3.12+ (si falla, usa py): python --version
 3. Pruebar red a Oracle (debe decir True): Test-NetConnection db.freesql.com -Port 1521
 4. Crear entorno: python -m venv entorno
